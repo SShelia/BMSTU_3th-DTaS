@@ -1,0 +1,15 @@
+digraph matrix_graph {
+rankdir=LR
+1 -> 2[label = 1, arrowhead = none]
+1 -> 4[label = 1, arrowhead = none]
+1 -> 5[label = 1, arrowhead = none]
+2 -> 5[label = 1, arrowhead = none]
+2 -> 6[label = 1, arrowhead = none]
+3 -> 4[label = 1, arrowhead = none]
+3 -> 7[label = 1, arrowhead = none]
+3 -> 8[label = 1, arrowhead = none]
+4 -> 8[label = 1, arrowhead = none]
+5 -> 6[label = 1, arrowhead = none]
+6 -> 7[label = 1, arrowhead = none]
+7 -> 8[label = 1, arrowhead = none]
+}

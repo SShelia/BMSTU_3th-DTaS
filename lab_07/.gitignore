@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.cflags
+*.config
+*.creator
+*.creator.user
+*.cxxflags
+*.files
+*.includes
+*.gcno
+*.gcno
+*.gcda
+*.c.gcov
